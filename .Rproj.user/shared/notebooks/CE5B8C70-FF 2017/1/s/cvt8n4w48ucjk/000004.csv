@@ -1,0 +1,4 @@
+"0","  schedule <- createSchedule(teamName, data$team)
+"
+"2","Error: Length of logical index vector must be 1 or 1 (the number of columns), not 12
+"
